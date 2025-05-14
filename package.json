@@ -1,0 +1,14 @@
+{
+  "builds": [
+    {
+      "src": "main.py",
+      "use": "@vercel/python"
+    }
+  ]
+}
+
+{
+    "engines": {
+      "node": "18.x"
+    }
+  }
